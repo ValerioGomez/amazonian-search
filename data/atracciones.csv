@@ -1,0 +1,111 @@
+id,nombre,categoria,descripcion,ubicacion,latitud,longitud
+1,Lago Sandoval,Reserva Natural,"Hermoso lago de herradura en la selva amazónica. Ideal para nadar, observar nutrias gigantes y aves exóticas como guacamayos y tucanes. Rodeado de vegetación exuberante.",Reserva Nacional Tambopata,-12.6125,-69.1778
+2,Collpa de Guacamayos Chuncho,Atracción Natural,"Acantilado de arcilla en la orilla del río Tambopata donde cientos de guacamayos y loros se reúnen al amanecer para alimentarse de sales minerales.",Río Tambopata,-12.8356,-69.3227
+3,Inkaterra Hacienda Concepción,Alojamiento,"Eco-lodge de lujo en la selva. Ofrece cabañas con techo de palma, caminatas guiadas, dosel y observación de flora y fauna.",Carretera a Cusco km 6,-12.6333,-69.1833
+4,Isla de los Monos,Santuario de Vida Silvestre,"Isla de rehabilitación para monos huérfanos. Los visitantes pueden observar de cerca diversas especies como capuchinos, monos araña y monos ardilla.",Río Madre de Dios,-12.5689,-69.2011
+5,Sede de la Reserva Nacional Tambopata,Reserva Natural,"Entrada principal y centro de información de la reserva. Ofrece exhibiciones sobre la biodiversidad amazónica y acceso a senderos.",Tambopata,-12.6523,-69.1500
+6,Collpa de Colorado,Atracción Natural,"Una collpa de arcilla más pequeña e íntima, visitada por loros y guacamayos, que ofrece una alternativa más tranquila que Chuncho.",Río Tambopata,-12.8200,-69.3100
+7,Lago Valencia,Lago de Herradura,"Enorme lago de herradura famoso por sus caimanes negros, nutrias gigantes y la pesca de pirañas. Excursión de día completo desde la ciudad.",Lago Valencia,-12.7500,-69.4500
+8,Lago Cocococha,Atracción Natural,"Impresionante lago de herradura dentro de la reserva, al que se llega tras una caminata por la selva. Ideal para avistar jaguares y caimanes negros.",Reserva Nacional Tambopata,-12.7100,-69.2500
+9,Lago Tres Chimbadas,Lago de Herradura,"Lago gestionado por la comunidad que ofrece paseos en catamarán para observar hoatzines y nutrias gigantes.",Reserva Nacional Tambopata,-12.6800,-69.2200
+10,Plaza de Armas de Puerto Maldonado,Atracción Urbana,"Plaza principal con el icónico Obelisco, estatuas de castañeros y tiendas locales. Excelente punto de partida.",Puerto Maldonado,-12.5954,-69.1890
+11,Obelisco de Puerto Maldonado,Mirador,"Monumento de 70 metros de altura que ofrece vistas panorámicas de 360 grados de la ciudad y la confluencia de los ríos Tambopata y Madre de Dios.",Puerto Maldonado,-12.5958,-69.1885
+12,Serpentario Amazónico,Santuario de Vida Silvestre,"Serpentario dedicado al rescate y rehabilitación de reptiles amazónicos, incluyendo anacondas y serpientes venenosas.",Carretera a Cusco,-12.6150,-69.1900
+13,Mariposario Tambopata,Santuario de Vida Silvestre,"Casa de mariposas que exhibe la diversidad de mariposas morpho y otras especies de la cuenca amazónica.",Puerto Maldonado,-12.6200,-69.1850
+14,Reserva Ecológica Taricaya,Santuario de Vida Silvestre,"Centro pionero de rescate de animales y proyecto de dosel gestionado por voluntarios. Famoso por su pasarela de dosel y su proyecto de tortugas.",Río Madre de Dios,-12.5400,-69.1700
+15,Pasarela de Dosel de Taricaya,Aventura,"Una de las pasarelas de dosel más largas de Sudamérica, que ofrece una vista aérea del dosel amazónico.",Reserva Taricaya,-12.5405,-69.1705
+16,Posada Amazonas Lodge,Alojamiento,"Eco-lodge galardonado, co-propiedad de la comunidad Ese'Eja. Cuenta con una torre de dosel de 30 metros.",Río Tambopata,-12.7400,-69.3000
+17,Refugio Amazonas Lodge,Alojamiento,"Alojamiento en la selva ideal para familias, conocido por su programa infantil y sus oportunidades para la fotografía de naturaleza.",Reserva Nacional Tambopata,-12.8000,-69.3500
+18,Tambopata Research Center,Alojamiento,"Alojamiento en lo profundo de la selva, ubicado en el corazón virgen de la reserva, famoso por la investigación de guacamayos.",Reserva Nacional Tambopata,-12.8400,-69.4000
+19,Wasai Maldonado Lodge,Alojamiento,"Alojamiento en la selva dentro del límite de la ciudad, que ofrece fácil acceso a paseos por el río y a la cocina local.",Puerto Maldonado,-12.5950,-69.1850
+20,Corto Maltes Amazonia Lodge,Alojamiento,"Eco-lodge que ofrece bungalós privados y extensos senderos en la selva, cerca del Lago Sandoval.",Zona del Lago Sandoval,-12.6100,-69.1800
+21,Puerto Capitania,Puerto,"Puerto fluvial principal de Puerto Maldonado. Centro neurálgico donde los viajeros abordan botes hacia los alojamientos en la selva.",Puerto Maldonado,-12.5680,-69.2050
+22,Parque Nacional Bahuaja-Sonene,Parque Nacional,"Gran área protegida que abarca selvas tropicales húmedas y sabanas tropicales (pampas). Hogar de flora única.",Madre de Dios,-12.7500,-69.4000
+23,Quebrada Gamitana,Aventura,"Quebrada de aguas negras perfecta para practicar kayak y avistar caimanes al atardecer.",Tambopata,-12.6900,-69.2300
+24,Comunidad Nativa Infierno,Atracción Cultural,"Comunidad indígena que co-gestiona Posada Amazonas. Ofrece intercambios culturales y caminatas etnobotánicas.",Río Tambopata,-12.7300,-69.2800
+25,Centro Etnobotánico Ese'Eja,Atracción Cultural,"Centro dedicado a preservar el conocimiento tradicional de las plantas medicinales de la comunidad Ese'Eja.",Comunidad Infierno,-12.7310,-69.2810
+26,Comunidad Nativa Palma Real,Atracción Cultural,"Comunidad que ofrece una auténtica inmersión cultural, comidas tradicionales y experiencias de rastreo en el bosque.",Río Palma Real,-12.7800,-69.1000
+27,Mercado Central de Puerto Maldonado,Atracción Cultural,"Mercado local vibrante que ofrece frutas amazónicas como el aguaje, carnes exóticas y artesanía tradicional.",Puerto Maldonado,-12.5990,-69.1900
+28,Confluencia de los Ríos Tambopata y Madre de Dios,Mirador,"Punto panorámico donde confluyen los dos principales ríos de la región, mejor apreciado desde un bote o desde el Obelisco.",Puerto Maldonado,-12.5850,-69.1950
+29,Amazon Shelter,Santuario de Vida Silvestre,"Centro de rescate animal especializado en la rehabilitación de mamíferos y aves confiscados del tráfico ilegal.",Carretera a Cusco,-12.6400,-69.1850
+30,Lago Sachavacayoc,Lago de Herradura,"Lago remoto y virgen al que se llega tras una larga caminata por la selva. Excelente para la observación de aves y caimanes.",Tambopata,-12.7500,-69.2700
+31,Palmetum de Tambopata,Atracción Natural,"Bosque único dominado por varias especies de palmeras, que ofrece recorridos botánicos especializados.",Reserva Nacional Tambopata,-12.7200,-69.2600
+32,Avenida Leon Velarde,Lugar emblemático,"Principal avenida comercial de la ciudad, bordeada de restaurantes que sirven platos regionales como cecina y tacacho.",Puerto Maldonado,-12.5970,-69.1860
+33,Alameda de Puerto Maldonado,Parque,"Paseo ribereño perfecto para caminatas al atardecer, con puestos de comida local y bancas.",Río Madre de Dios,-12.5750,-69.2000
+34,Mirador de la Biodiversidad,Mirador,"Mirador más pequeño que ofrece paneles educativos sobre la megabiodiversidad de la región.",Puerto Maldonado,-12.5800,-19.1980
+35,Puente Billinghurst,Puente,"Puente colgante histórico que conecta Puerto Maldonado con la ruta hacia la frontera con Brasil. Ideal para fotografías.",Río Madre de Dios,-12.5820,-69.1990
+36,Proyecto Guacamayos Tambopata,Centro de Investigación,"Proyecto de investigación científica que estudia las poblaciones de guacamayos. Los visitantes pueden aprender sobre los esfuerzos de conservación.",Reserva Nacional Tambopata,-12.8356,-69.3227
+37,Explorer's Inn,Alojamiento,"Eco-lodge histórico conocido por sus extensas redes de senderos y su continua investigación científica desde la década de 1970.",Tambopata,-12.8400,-69.2900
+38,Sistema de Senderos de Explorer's Inn,Aventura,"Más de 40 km de senderos señalizados que atraviesan diversos hábitats, perfectos para naturalistas aficionados y profesionales.",Tambopata,-12.8410,-69.2910
+39,Torre de Dosel de Explorer's Inn,Mirador,"Torre de 30 metros que ofrece espectaculares vistas al amanecer y observación de aves desde el dosel.",Tambopata,-12.8420,-69.2920
+40,Centro Amazónico de Educación e Investigación Ambiental (ACEER),Centro de Investigación,"Fundación que ofrece talleres y pasarelas de dosel dedicadas a la educación sobre la selva tropical.",Madre de Dios,-12.5500,-69.1600
+41,Lago Condenado,Lago de Herradura,"Lago de aguas negras ideal para observar hoatzines (pavas apestosas) y caimanes.",Tambopata,-12.7600,-69.3100
+42,Río Negro (Black River),Aventura,"Afluente caracterizado por sus aguas oscuras. Popular para kayak y natación debido a la ausencia de mosquitos.",Tambopata,-12.7800,-69.3300
+43,Lago La Pastora,Lago de Herradura,"Lago tranquilo rodeado de palmeras, conocido por sus abundantes poblaciones de monos.",Tambopata,-12.7700,-69.2400
+44,Zonas de Pesca de Pirañas,Aventura,"Áreas designadas a lo largo del río Madre de Dios donde los turistas pueden pescar pirañas de vientre rojo.",Río Madre de Dios,-12.5700,-69.2100
+45,Kayak en el Río Madre de Dios,Aventura,"Recorridos guiados en kayak que ofrecen una perspectiva silenciosa y cercana al agua de la cuenca amazónica.",Río Madre de Dios,-12.5680,-69.2050
+46,Safari Nocturno de Caimanes,Aventura,"Paseo en bote por la noche utilizando linternas para ver los ojos brillantes de los caimanes negros y blancos.",Río Tambopata,-12.7500,-69.2800
+47,Torre de Observación de Aves en Posada Amazonas,Mirador,"Torre de dosel que ofrece la oportunidad de ver águilas arpías y tucanes por la mañana.",Posada Amazonas,-12.7410,-69.3010
+48,Collpa de Mamíferos,Atracción Natural,"Collpa de arcilla visitada por la noche por tapires, pecaríes y, a veces, jaguares, observada desde escondites.",Reserva Nacional Tambopata,-12.8100,-69.3700
+49,Sabana Tropical (Pampas del Heath),Atracción Natural,"Ecosistema de pastizales único dentro del Amazonas, hogar de aguará guazú y ciervos de los pantanos.",Parque Nacional Bahuaja-Sonene,-12.9000,-69.5000
+50,Bosques de Castaña (Castañales),Atracción Natural,"Concesiones forestales donde la castaña se cosecha de manera sostenible. Conozca esta economía local vital.",Tambopata,-12.6500,-69.1900
+51,Caminata Nocturna por la Selva,Aventura,"Caminata guiada nocturna para observar tarántulas, ranas, insectos y aves dormidas.",Tambopata,-12.7000,-69.2500
+52,Escalada de Matapalos,Aventura,"Emocionante experiencia escalando las raíces de gigantescos árboles matapalos con arneses.",Tambopata,-12.7100,-69.2600
+53,Paddle Surf en el Amazonas,Aventura,"Paddle surf en las aguas tranquilas de los lagos de herradura amazónicos, rodeado de naturaleza.",Lago Sandoval,-12.6125,-69.1778
+54,Experiencia de Supervivencia en la Selva,Aventura,"Excursiones de varios días o de un día que enseñan a los visitantes a encontrar agua, construir refugios y buscar alimento en la naturaleza.",Tambopata,-12.8000,-69.3500
+55,Jardín Botánico de Puerto Maldonado,Parque,"Jardín local que exhibe plantas medicinales e industriales de la región de Madre de Dios.",Puerto Maldonado,-12.6050,-69.1850
+56,Jardín de Plantas Medicinales (Inkaterra),Atracción Natural,"Jardín etnobotánico dentro del lodge que explica la medicina tradicional amazónica.",Inkaterra Hacienda,-12.6333,-69.1833
+57,Pasarela de Dosel en Inkaterra,Aventura,"Puentes colgantes a 30 metros sobre el suelo del bosque, perfectos para observar bromelias y orquídeas.",Inkaterra Hacienda,-12.6340,-69.1840
+58,Sendero Nocturno por la Selva,Aventura,"Sendero especializado de Inkaterra para descubrir la fauna nocturna y los hongos bioluminiscentes.",Inkaterra Hacienda,-12.6333,-69.1833
+59,Excursión a la Granja (Inkaterra),Atracción Cultural,"Visita a una granja tradicional para aprender sobre la agricultura amazónica, incluyendo cacao y frutas tropicales.",Inkaterra Hacienda,-12.6350,-69.1820
+60,Expedición por el Río Tambopata,Aventura,"Expedición de varios días en balsa y campamento a través de secciones vírgenes del río Tambopata.",Río Tambopata,-12.8500,-69.4000
+61,Lago Yacumama,Lago de Herradura,"El lago de herradura más grande de la región, envuelto en mitología local y hogar de anacondas gigantes.",Madre de Dios,-12.5200,-69.1500
+62,Comunidad Nativa Chasuta,Atracción Cultural,"Visita a la comunidad que ofrece información sobre la agricultura, la pesca y la vida diaria tradicionales.",Río Tambopata,-12.8700,-69.4200
+63,Laguna del Pato Aldofo,Lago de Herradura,"Pequeña y tranquila laguna excelente para la observación de aves, especialmente aves acuáticas.",Tambopata,-12.7400,-69.2900
+64,Lago Anaconda,Lago de Herradura,"Laguna remota donde los guías buscan activamente anacondas gigantes en las orillas fangosas.",Tambopata,-12.8200,-69.3800
+65,Río El Gato,Aventura,"Hermoso río pequeño con pequeñas cascadas, perfecto para nadar y hacer senderismo fluvial.",Tambopata,-12.7900,-69.3500
+66,Cascada El Gato,Atracción Natural,"Cascada pintoresca en un afluente del río Tambopata, rodeada de rica biodiversidad.",Tambopata,-12.7950,-69.3550
+67,Cusco Amazonico Lodge,Alojamiento,"Alojamiento en la selva que ofrece bungalós privados y visitas guiadas a lagos cercanos.",Madre de Dios,-12.5500,-69.1800
+68,Heliconia Amazon River Lodge,Alojamiento,"Alojamiento rodeado de plantas de heliconia, conocido por su espectacular observación de aves en sus terrenos.",Río Madre de Dios,-12.5600,-69.1900
+69,Sandoval Lake Lodge,Alojamiento,"El único alojamiento situado directamente en la orilla del Lago Sandoval, que ofrece acceso exclusivo temprano por la mañana.",Lago Sandoval,-12.6150,-69.1780
+70,Amazon Planet Lodge,Alojamiento,"Eco-lodge enfocado en la sostenibilidad, ubicado al otro lado del río Madre de Dios, que ofrece caminatas inmersivas por la selva.",Río Madre de Dios,-12.5450,-69.1650
+71,Mahuor Lodge,Alojamiento,"Alojamiento económico en la selva conocido por sus guías locales amables y sus comidas auténticas.",Tambopata,-12.6700,-69.2100
+72,Delfin Verde Lodge,Alojamiento,"Alojamiento rústico que ofrece recorridos económicos y fácil acceso a la Isla de los Monos.",Madre de Dios,-12.5600,-19.1850
+73,Otorongo Lodge,Alojamiento,"Alojamiento familiar que ofrece recorridos personalizados en lo profundo del dosel de la selva.",Río Tambopata,-12.7500,-69.3100
+74,Reserva Cusco Amazónico,Reserva Natural,"Área de conservación privada enfocada en proteger bosques inundables y pantanos de palmeras.",Madre de Dios,-12.5500,-69.1750
+75,Tambopata Eco Lodge,Alojamiento,"Eco-lodge de larga trayectoria conocido por su compromiso con el residuo cero y la energía solar.",Río Tambopata,-12.7800,-69.3400
+76,Libertador Tambopata Lodge,Alojamiento,"Alojamiento de gama media con un amplio salón principal y excelente cocina regional.",Río Tambopata,-12.7700,-69.3300
+77,Tambo Paititi Lodge,Alojamiento,"Alojamiento de estilo amazónico tradicional que ofrece experiencias culturalmente inmersivas.",Río Tambopata,-12.8100,-69.3800
+78,Wasai Tambopata Lodge,Alojamiento,"Alojamiento junto al río que sirve como base para expediciones de varios días en la selva profunda.",Río Tambopata,-12.7600,-69.3200
+79,Sendero al Lago de Herradura Tres Chimbadas,Aventura,"Caminata de 3 km por la selva primaria que conduce al hermoso lago Tres Chimbadas.",Tambopata,-12.6810,-69.2210
+80,Sendero Sachavacayoc,Aventura,"Sendero que atraviesa bosques de llanura aluvial, ideal para rastrear pecaríes y tapires.",Tambopata,-12.7510,-69.2710
+81,Sendero del Río Negro,Aventura,"Caminata a lo largo del Río Negro que se centra en la transición entre bosques de tierra firme y bosques inundables.",Tambopata,-12.7810,-69.3310
+82,Sendero del Bosque de Llanura Aluvial (Várzea),Aventura,"Sendero que explora los ecosistemas estacionalmente inundables, ricos en anfibios y reptiles.",Tambopata,-12.7100,-69.2400
+83,Sendero del Bosque de Tierra Firme,Aventura,"Caminata por la selva elevada y no inundable, hogar de antiguos árboles gigantes de caoba.",Tambopata,-12.7200,-69.2500
+84,Sendero del Bosque de Bambú,Atracción Natural,"Hábitat especializado dominado por bambú, que atrae especies de aves únicas como el batará rayado.",Tambopata,-12.7300,-69.2600
+85,Sendero del Pantano de Palmeras (Aguajal),Atracción Natural,"Sendero a través de un pantano de palmeras, un hábitat vital para guacamayos y guacamayos de vientre rojo.",Tambopata,-12.7400,-69.2700
+86,Sitio de Anidación del Águila Arpía,Santuario de Vida Silvestre,"Sitio histórico de anidación de la majestuosa Águila Arpía, un gran atractivo para los ornitólogos.",Tambopata,-12.8300,-69.3900
+87,Torre de Observación de Nutrias Gigantes,Mirador,"Torre con vista al Lago Cocococha que proporciona el mejor punto de observación para ver nutrias gigantes.",Tambopata,-12.7110,-69.2510
+88,Campamento de Recolectores de Castaña,Atracción Cultural,"Campamento estacional donde los visitantes aprenden el peligroso y tradicional arte de cosechar castañas.",Tambopata,-12.6600,-69.2000
+89,Sendero de las Orquídeas,Atracción Natural,"Sendero botánico que se centra en las diversas epífitas y orquídeas silvestres de la región de Tambopata.",Tambopata,-12.6900,-69.2100
+90,Jardín de Bromelias,Atracción Natural,"Área densa en bromelias, que a menudo albergan pequeñas ranas e insectos en sus depósitos de agua.",Tambopata,-12.6950,-69.2150
+91,Charco de Ranas,Santuario de Vida Silvestre,"Pequeña área de estanque dedicada a observar las diversas y coloridas ranas dardo venenosas.",Tambopata,-12.7050,-69.2250
+92,Torre de Dosel en Refugio Amazonas,Mirador,"Torre de andamio de 30 metros que ofrece impresionantes vistas del interminable dosel verde.",Reserva Nacional Tambopata,-12.8010,-69.3510
+93,Catamarán en el Lago Sandoval,Aventura,"Paseo tranquilo en bote de pedales por el lago para acercarse a las aves y caimanes sin el ruido del motor.",Lago Sandoval,-12.6125,-69.1778
+94,Collpa de Loros en Refugio Amazonas,Atracción Natural,"Collpa de arcilla más pequeña donde los pericos y loros pequeños se reúnen temprano por la mañana.",Tambopata,-12.8020,-69.3520
+95,Experiencia de Cultivo de Café,Atracción Cultural,"Visita a una granja local para ver cómo se cultiva, cosecha y tuesta el café en el Amazonas.",Puerto Maldonado,-12.6100,-69.1700
+96,Recorrido por la Plantación de Cacao,Atracción Cultural,"Recorrido educativo por una finca de cacao, que incluye degustación de chocolate amazónico crudo.",Puerto Maldonado,-12.6150,-69.1750
+97,Muelle de Cruceros por el Amazonas,Puerto,"Punto de partida para cruceros de lujo que navegan por el río Madre de Dios.",Puerto Maldonado,-12.5650,-69.2020
+98,Caminata Nocturna en Refugio Amazonas,Aventura,"Caminata nocturna centrada en la diversidad de anfibios y la observación de tarántulas cerca del alojamiento.",Tambopata,-12.8000,-69.3500
+99,Sendero del Agutí,Aventura,"Sendero circular corto conocido por los avistamientos de agutíes y pacas cerca de los terrenos del alojamiento.",Tambopata,-12.8030,-69.3530
+100,Sendero del Pecarí,Aventura,"Sendero más largo diseñado para seguir las marcas de olor y los caminos de los pecaríes de labios blancos.",Tambopata,-12.8040,-69.3540
+101,Sendero del Puma,Aventura,"Sendero remoto donde las cámaras trampa han registrado pumas, ofreciendo una verdadera experiencia de naturaleza salvaje.",Tambopata,-12.8200,-69.3600
+102,Sendero La Noche,Aventura,"Sendero famoso por la fotografía nocturna de búhos y chotacabras.",Tambopata,-12.8100,-69.3650
+103,Experiencia de Cocina en la Selva,Atracción Cultural,"Aprende a cocinar platos tradicionales amazónicos como el 'juane' y el 'tacacho' con ingredientes locales.",Puerto Maldonado,-12.5950,-69.1890
+104,Centro de Visitantes de la Reserva Nacional Tambopata,Centro de Información,"Centro interpretativo con exhibiciones sobre la geografía, los desafíos de conservación y la vida silvestre de la reserva.",Tambopata,-12.6530,-69.1510
+105,Centro de Semillas Nativas,Centro de Investigación,"Centro dedicado a preservar la diversidad genética de cultivos amazónicos como la yuca y el maíz.",Puerto Maldonado,-12.6050,-69.1820
+106,Atardecer en el Río Madre de Dios,Mirador,"Paseo en bote programado específicamente para ver la puesta de sol sobre el vasto río Amazonas, acompañado de delfines rosados.",Río Madre de Dios,-12.5700,-69.2100
+107,Balsismo en el Río Balsa,Aventura,"Emocionante pero segura experiencia de rafting en el río Balsa, adecuada para principiantes.",Río Balsa,-12.4500,-69.1000
+108,Lago Katicapi,Lago de Herradura,"Lago sereno rodeado de selva espesa, conocido por sus enormes nenúfares (Victoria amazónica).",Tambopata,-12.7600,-69.2800
+109,Comunidad San Juan de Purús,Atracción Cultural,"Comunidad que muestra la agricultura de roza y quema tradicional y la elaboración de artesanías.",Madre de Dios,-12.6500,-69.1600
+110,Arte Callejero de Puerto Maldonado,Lugar emblemático,"Murales repartidos por la ciudad que representan mitos amazónicos, vida silvestre e historia local.",Puerto Maldonado,-12.5980,-69.1880
