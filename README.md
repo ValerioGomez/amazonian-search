@@ -9,11 +9,55 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![License](https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge)](LICENSE)
 
-*Proyecto académico para el curso de **Estructura de Datos y Algoritmos Avanzado***
+*Proyecto académico para el curso de **ESTRUCTURA DE DATOS Y ALGORITMOS AVANZADOS***
 
 [Comenzar](#-instalación) · [Guía de Demo](GUIADE_DEMO.md) · [Informe IEEE](article/INFORME_IEEE.md) · [API](#-documentación-de-la-api)
 
 </div>
+
+---
+
+## 🚀 Inicio Rápido (Quick Start)
+
+Puedes ejecutar el proyecto completo de dos formas: usando **Docker** (para correrlo en cualquier máquina sin configurar dependencias) o de forma **Local**.
+
+### Opción A: Con Docker (Recomendado)
+Para levantar el Backend y el Frontend con un solo comando:
+
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/ValerioGomez/amazonian-search.git
+cd amazonian-search
+
+# 2. Levantar los servicios
+docker-compose up --build
+```
+> El Frontend estará disponible en **http://localhost:3000** y el Backend en **http://localhost:8000**. El índice se construirá automáticamente durante la primera compilación.
+
+### Opción B: Ejecución Local
+Si deseas ejecutarlo directamente en tu máquina:
+
+```bash
+# 1. Clonar el repositorio e ingresar a la carpeta
+git clone https://github.com/ValerioGomez/amazonian-search.git
+cd amazonian-search
+
+# 2. Configurar y generar datos del Backend
+python -m venv venv
+# Activar entorno virtual (Windows PowerShell)
+.\venv\Scripts\activate
+# Instalar dependencias y entrenar índice HNSW
+pip install -r backend/requirements.txt
+python -m backend.scripts.generate_data
+
+# 3. Iniciar el Backend (en una terminal)
+uvicorn backend.api.main:app --reload --port 8000
+
+# 4. Iniciar el Frontend (en otra terminal)
+cd frontend
+npm install
+npm run dev
+```
 
 ---
 
@@ -39,15 +83,13 @@ Este proyecto fue desarrollado como trabajo final de investigación para el curs
 
 | Interfaz Principal | Resultados de Búsqueda |
 |:---:|:---:|
-| *[Captura de la interfaz principal]* | *[Captura de resultados con tarjetas]* |
+| ![Interfaz Principal](data/captura1.png) | ![Resultados de Búsqueda](data/captura2.png) |
 
 | Gráficos de Experimentos | API Docs |
 |:---:|:---:|
-| *[Captura de gráficos benchmark]* | *[Captura de /docs de FastAPI]* |
+| ![Gráficos de Experimentos](backend/data/experimentos_completos.png) | ![Gráfico de Informe](backend/data/grafico_informe.png) |
 
 </div>
-
-> 💡 **Nota:** Ejecuta el proyecto y captura tus propias pantallas para reemplazar estos marcadores.
 
 ---
 
@@ -385,13 +427,14 @@ amazonian-search/
 
 | Nombre | Rol | Contacto |
 |:---|:---|:---|
-| *[Nombre del Alumno 1]* | Desarrollo Backend & HNSW | *[correo@universidad.edu]* |
-| *[Nombre del Alumno 2]* | Desarrollo Frontend & UI | *[correo@universidad.edu]* |
+| Gomez Alcos Elmer Valerio | Desarrollo Backend & HNSW | [elmer.gomeza@unmsm.edu.pe](mailto:elmer.gomeza@unmsm.edu.pe) |
+| Luis Fernando Talizo Chambilla | Desarrollo Frontend & UI | [luistalizo20@gmail.com](mailto:luistalizo20@gmail.com) |
 
-**Curso:** Estructura de Datos y Algoritmos Avanzado  
-**Universidad:** *[Nombre de la Universidad]*  
-**Semestre:** *[Semestre Académico]*  
-**Docente:** *[Nombre del Docente]*
+**Curso:** ESTRUCTURA DE DATOS Y ALGORITMOS AVANZADOS  
+**Universidad:** Universidad Nacional del Altiplano  
+**Semestre:** I  
+**Programa:** Doctorado en Ciencias de la Computación  
+**Docente:** Doctor JUAN CARLOS JUAREZ VARGAS
 
 ---
 

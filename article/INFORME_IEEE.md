@@ -2,11 +2,12 @@
 
 ---
 
-**Autores:** *[Nombre del Alumno 1], [Nombre del Alumno 2]*  
-**Afiliación:** *[Nombre de la Universidad], Facultad de Ingeniería*  
-**Curso:** Estructura de Datos y Algoritmos Avanzado  
-**Docente:** *[Nombre del Docente]*  
-**Fecha:** *[Fecha de Entrega]*
+**Autores:** Gomez Alcos Elmer Valerio, Luis Fernando Talizo Chambilla  
+**Afiliación:** Universidad Nacional del Altiplano, Programa de Doctorado en Ciencias de la Computación  
+**Semestre:** I  
+**Curso:** ESTRUCTURA DE DATOS Y ALGORITMOS AVANZADOS  
+**Docente:** Doctor JUAN CARLOS JUAREZ VARGAS  
+**Fecha:** Julio de 2026
 
 ---
 

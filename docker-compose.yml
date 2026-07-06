@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - MODEL_NAME=paraphrase-multilingual-MiniLM-L12-v2
+      - HNSW_M=16
+      - HNSW_EF_CONSTRUCTION=200
+      - HNSW_EF_SEARCH=50
+      - EMBEDDING_DIM=384
+      - HNSW_SPACE=cosine
+      - DATA_DIR=data
+      - API_HOST=0.0.0.0
+      - API_PORT=8000
+    volumes:
+      - ./backend/data:/app/backend/data
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
